@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christopher Yip
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Laravel / Vue.js / SASS
+- 🌱 I’m currently learning Networking (Service Provider Technology), Python API (Flask)
 - 💞️ I’m looking to collaborate on anything development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/christopheryipeio/)
 
